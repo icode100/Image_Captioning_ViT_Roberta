@@ -2,6 +2,17 @@
 
 This is a repository for an image caption generator model built using Vision Transformer (ViT) and Roberta. The model is trained on the [flickr10k](https://www.kaggle.com/datasets/icode100/flickr-10k) dataset which derived from the [Flickr](https://www.kaggle.com/datasets/hsankesara/flickr-image-dataset) dataset consisting of 31k images. RobertaMLM and Byte_tokenizer is removed from this github repository for space constraints. To view them repository visit my [huggingface.co/spaces](https://huggingface.co/spaces/icode100/Image_Captioning/tree/main) account.
 
+---
+**ROUGE2 SCORES**
+
+| Metric | Score |
+|---|---|
+| Precision | 0.114700 |
+| Recall | 0.124500 |
+| F1-Score | 0.114100 |
+
+---
+
 ### Models
 
 * [RobertaMLM](https://www.kaggle.com/models/icode100/robertamlm) the Roberta model fine-tuned on Masked Lnaguage modeling
