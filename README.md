@@ -1,6 +1,22 @@
 ## Image Caption Generator with ViT and Roberta
 
-This is a repository for an image caption generator model built using Vision Transformer (ViT) and Roberta. The model is trained on the [flickr10k](https://www.kaggle.com/datasets/icode100/flickr-10k) dataset which derived from the [Flickr](https://www.kaggle.com/datasets/hsankesara/flickr-image-dataset) dataset consisting of 31k images. RobertaMLM and Byte_tokenizer is removed from this github repository for space constraints. To view them repository visit my [huggingface.co/spaces](https://huggingface.co/spaces/icode100/Image_Captioning/tree/main) account.
+This is a repository for an image caption generator model built using Vision Transformer (ViT) and Roberta. The model is trained on the [flickr10k](https://www.kaggle.com/datasets/icode100/flickr-10k) dataset which derived from the [Flickr](https://www.kaggle.com/datasets/hsankesara/flickr-image-dataset) dataset consisting of 31k images. RobertaMLM and Byte_tokenizer is removed from this github repository for space constraints. 
+
+View on kaggle:
+<table align="left">
+  <td>
+    <a href="https://www.kaggle.com/icode100/image-captioning" target="_parent"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Open In Colab"/></a>
+  </td>
+</table>
+
+## Contents
+- [Models](#models)
+- [Features](#features)
+- [Dependancies](#dependencies)
+- [Usage](#usage)
+- [Trainig](#training)
+
+
 
 ---
 **ROUGE2 SCORES**
