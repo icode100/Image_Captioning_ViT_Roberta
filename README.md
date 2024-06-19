@@ -51,7 +51,7 @@ This project requires the following libraries:
 
 ### Usage
 
-* This is the [application](https://huggingface.co/spaces/icode100/Image_Captioning) where you can upload image from local file system and the captions will be generated
+* This is the [application](https://vitrobertaimagecaptioning.streamlit.app/) where you can upload image from local file system and the captions will be generated
 * For using model in kaggle :
   * visit the [kaggle page](https://www.kaggle.com/models/icode100/vit_roberta_image_captioning) and click create notebook.
   * Add both the datasets provided in the description.
